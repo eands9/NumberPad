@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4DD5076921B70937006336B3 /* NumberPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NumberPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DD5076921B70937006336B3 /* NumberPad2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NumberPad2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DD5076C21B70938006336B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DD5076E21B70938006336B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4DD5077121B70938006336B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		4DD5076A21B70937006336B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4DD5076921B70937006336B3 /* NumberPad.app */,
+				4DD5076921B70937006336B3 /* NumberPad2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4DD5076821B70937006336B3 /* NumberPad */ = {
+		4DD5076821B70937006336B3 /* NumberPad2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4DD5077B21B7093A006336B3 /* Build configuration list for PBXNativeTarget "NumberPad" */;
+			buildConfigurationList = 4DD5077B21B7093A006336B3 /* Build configuration list for PBXNativeTarget "NumberPad2" */;
 			buildPhases = (
 				4DD5076521B70937006336B3 /* Sources */,
 				4DD5076621B70937006336B3 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = NumberPad;
+			name = NumberPad2;
 			productName = NumberPad;
-			productReference = 4DD5076921B70937006336B3 /* NumberPad.app */;
+			productReference = 4DD5076921B70937006336B3 /* NumberPad2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4DD5076421B70937006336B3 /* Build configuration list for PBXProject "NumberPad" */;
+			buildConfigurationList = 4DD5076421B70937006336B3 /* Build configuration list for PBXProject "NumberPad2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4DD5076821B70937006336B3 /* NumberPad */,
+				4DD5076821B70937006336B3 /* NumberPad2 */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kylesapps.NumberPad;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kylesapps.NumberPad2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kylesapps.NumberPad;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kylesapps.NumberPad2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4DD5076421B70937006336B3 /* Build configuration list for PBXProject "NumberPad" */ = {
+		4DD5076421B70937006336B3 /* Build configuration list for PBXProject "NumberPad2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4DD5077921B7093A006336B3 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4DD5077B21B7093A006336B3 /* Build configuration list for PBXNativeTarget "NumberPad" */ = {
+		4DD5077B21B7093A006336B3 /* Build configuration list for PBXNativeTarget "NumberPad2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4DD5077C21B7093A006336B3 /* Debug */,

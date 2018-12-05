@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:NumberPad.xcodeproj">
+      location = "self:/Users/kylehernandez/Documents/Eric/NumberPad2/NumberPad2.xcodeproj">
    </FileRef>
 </Workspace>
